@@ -4,8 +4,7 @@ I create blog posts and open source projects mainly about Java, Spring Boot and 
 
 If you found value in something I have created, please feel free to say hello [@asknilan](https://twitter.com/asknilan). ♥ I would love to see you join.
 
-<!--
-**npanigrahy/npanigrahy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
