@@ -1,9 +1,6 @@
-Hi there 👋
+## 👋Hi, I'm Nilan!
 
-I create blog posts and open source projects mainly about Java, Spring Boot and micro-services.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [stacktips.com](https://stacktips.com).  
-
-If you found value in something I have created, please feel free to say hello [@asknilan](https://twitter.com/asknilan).
-♥ I would love to see you join.
+Wanna chat? please feel free to say hello [@asknilan](https://twitter.com/asknilan).
 
 <!--
 
@@ -16,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: I am just a tweet away, reach me @askNilan
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+<a href="https://stackoverflow.com/users/2090887/nilanchala-panigrahy"><img src="https://stackoverflow.com/users/flair/2090887.png?theme=clean" width="208" height="58" alt="profile for Nilanchala Panigrahy at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nilanchala Panigrahy at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 -->
+
+
