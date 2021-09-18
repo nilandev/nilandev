@@ -19,3 +19,6 @@ A passionate full stack developer from India, mainly focused on Java, Spring. <b
 
 <h4 align="left">Support:</h4>
 <p><a href="https://www.buymeacoffee.com/nilan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nilan" /></a></p><br><br>
+
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=npanigrahy&show_icons=true&locale=en&layout=compact" alt="npanigrahy" /></p>
