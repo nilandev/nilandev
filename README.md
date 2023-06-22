@@ -1,13 +1,14 @@
 ## 👋 Hi, I'm Nilan!
 
-* :seedling: I'm a full stack developer from India :india:, mainly focused on Java, Spring.
+* :seedling: I'm a full stack developer from UK 🇬🇧:, mainly focused on Java, Spring and Micro-service archiecture. 
 * :heart_eyes:	 I love to learn, code, solve problems, etc...
 * :heart_eyes_cat:	Always loves to explore and learn new things.
+* :writting_hand: Creating tutorials, how-to-guides and code snippets.
 
 **Hobbies:**
 * Listening music
-* Watching webseries (Currently watching - House MD)
-* Spending time to improve my skills, like: Stackoverflow, Udemy courses, etc...
+* Spending time to improve my skills, like Stackoverflow, Udemy courses, etc...
+* Currently learning Dart, Flutter and Django.
 * Wanna learn React, Golang ;)
 
 <h4 align="left">Languages and tools I use:</h4>
@@ -24,9 +25,5 @@
 
  <a href="https://twitter.com/asknilan" target="blank"><img src="https://img.shields.io/twitter/follow/asknilan?logo=twitter&style=for-the-badge" alt="asknilan" />
 </p>
- 
- 
- 
- 
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=npanigrahy&show_icons=true&locale=en&layout=compact" alt="npanigrahy" /></p>
