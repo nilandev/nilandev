@@ -3,7 +3,7 @@
 * :seedling: I'm a full stack developer from UK 🇬🇧:, mainly focused on Java, Spring and Micro-service archiecture. 
 * :heart_eyes:	 I love to learn, code, solve problems, etc...
 * :heart_eyes_cat:	Always loves to explore and learn new things.
-* :writting_hand: Creating tutorials, how-to-guides and code snippets.
+* ✍️ : Creating tutorials, how-to-guides and code snippets.
 
 **Hobbies:**
 * Listening music
