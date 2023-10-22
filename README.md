@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Nilanchal :seedling:
+## 👋 Hi, I'm Nilanchal 🍃:
 
 * I'm a full-stack developer from Bengaluru, India🇮🇳. Currently focused on Java, Spring, and Micro-service architecture.
 * I blogger, content creator & a Open Source contributor
