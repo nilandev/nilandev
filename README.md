@@ -16,15 +16,13 @@
 <h3 align="left">Languages and tools I use:</h4>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+            src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg"
             alt="android" width="40" height="40" /></a><span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://aws.amazon.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws" width="40" height="40" /></a><span>&nbsp;&nbsp;&nbsp;</span>
- <a href="https://www.gnu.org/software/bash/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a><span>&nbsp;&nbsp;&nbsp;</span>
  <a href="https://www.djangoproject.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+            src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"
             alt="django" width="40" height="40" /></a><span>&nbsp;&nbsp;&nbsp;</span> 
 <a href="https://www.docker.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
