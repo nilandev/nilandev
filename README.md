@@ -1,11 +1,19 @@
 ### Hi, I'm Nilan👋
 
-I am a software developer from Bengaluru, India🇮🇳. I have around 15 years of product development experience in Java, Spring, Spring Boot, SOA, Microservices & Cloud. I am passionate about getting everyone into Open Source.
+I am a software developer from India, currently live in the UK. I have around 15 years of product development experience in Java, Spring, Spring Boot, SOA, Microservices & Cloud. 
 
-I do this by creating content on stacktips.com, DEV.to, live streaming, and video tutorials on my YouTube channel. If you enjoy the awesome content, and helpful tech videos, then please subscribe to my YouTube channel and join me on this new learning path.
+I am passionate about teaching people how to code. I do this by creating content on stacktips.com, DEV.to, live streaming, and video tutorials on my YouTube channel. If you enjoy the awesome content, and helpful tech videos, then please subscribe to my YouTube channel and join me on this new learning path.
 
 You can find all my technical content here
 
-👉 https://stacktips.com
+- 👉 https://stacktips.com
+- 👉 https://youtube.com/@TheTechMojo
 
-👉 https://youtube.com/@TheTechMojo
+<br>
+
+> [!IMPORTANT]
+> I've just open-sourced my blog's codebase on GitHub. It is built using **Python** and **Django** frameworks. 
+> If you're interested in blogging, python web development, or just curious about how my blog works behind the scenes, take a closer look or contribute [here](https://github.com/StackTipsLab/bloggy), 
+
+
+
