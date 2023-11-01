@@ -14,5 +14,5 @@ You can find all my technical content here
 > I've just open-sourced my blog's codebase on GitHub. It is built using **Python** and **Django** frameworks. 
 > If you're interested in blogging, python web development, or just curious about how my blog works behind the scenes, take a closer look or contribute [here](https://github.com/StackTipsLab/bloggy), 
 
-
-
+### Hacktoberfest
+[![An image of @nilandev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nilandev)](https://holopin.io/@nilandev)
