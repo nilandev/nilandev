@@ -14,5 +14,12 @@ You can find all my technical content here
 > I've just open-sourced my blog's codebase on GitHub. It is built using **Python** and **Django** frameworks. 
 > If you're interested in blogging, python web development, or just curious about how my blog works behind the scenes, take a closer look or contribute [here](https://github.com/StackTipsLab/bloggy), 
 
+<br>
+
+### Book I have authored
+
+[Xamarin Mobile Application Development for Android](https://www.oreilly.com/library/view/xamarin-mobile-application/9781785280375/)
+
 ### Hacktoberfest progress
 [![An image of @nilandev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nilandev)](https://holopin.io/@nilandev)
+
