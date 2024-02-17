@@ -9,7 +9,7 @@ Find my work here
 - 👐 Open-source maintainer of [Bloggy](https://github.com/StackTipsLab/bloggy)
 - 🚢 I am mentoring developers on Java, Spring, and MicroService development. Check me out on [MentorCruise](https://mentors.to/nilan)
 
-## Posts I've written recently on stacktips.com
+### Posts I've written recently on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
 - [Task Execution and Scheduling in Spring Boot](https://stacktips.com/articles/task-execution-and-scheduling-in-spring-boot)
