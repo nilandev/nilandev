@@ -26,5 +26,10 @@ Find my work here
 
 
 ### YouTube Tutorials
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hxvT83qyLsY"><img width="140px" src="http://img.youtube.com/vi/hxvT83qyLsY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hxvT83qyLsY">The Tech Mojo Live Stream</a><br/>Nov 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=1gEoiMVULt4"><img width="140px" src="http://img.youtube.com/vi/1gEoiMVULt4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1gEoiMVULt4">Replace Embedded Tomcat with Jetty or Undertow Server in Spring Boot 3</a><br/>Oct 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GX--xvYOlQ0"><img width="140px" src="http://img.youtube.com/vi/GX--xvYOlQ0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GX--xvYOlQ0">Chapter1- Introduction Spring Boot Framework</a><br/>Aug 30, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
