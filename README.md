@@ -23,13 +23,3 @@ Find my work here
 - [Local, Central, and Remote Repository in Maven](https://stacktips.com/courses/maven-for-beginners/local-central-remote-maven-repository)
 - [Dependency Management in Maven](https://stacktips.com/courses/maven-for-beginners/dependency-management-in-maven)
 <!-- BLOG-POST-LIST:END -->
-
-
-### Recent YouTube Tutorials
-<!-- YOUTUBE:START --><table style="border:none;"><tr style="border:none;"><td style="border:none;"><a href="https://www.youtube.com/watch?v=hxvT83qyLsY"><img width="150px" src="http://img.youtube.com/vi/hxvT83qyLsY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hxvT83qyLsY"><span font-size="16px">The Tech Mojo Live Stream</span></a><br/>Nov 30, 2023</td></tr></table>
-<table style="border:none;"><tr style="border:none;"><td style="border:none;"><a href="https://www.youtube.com/watch?v=1gEoiMVULt4"><img width="150px" src="http://img.youtube.com/vi/1gEoiMVULt4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1gEoiMVULt4"><span font-size="16px">Replace Embedded Tomcat with Jetty or Undertow Server in Spring Boot 3</span></a><br/>Oct 3, 2023</td></tr></table>
-<table style="border:none;"><tr style="border:none;"><td style="border:none;"><a href="https://www.youtube.com/watch?v=GX--xvYOlQ0"><img width="150px" src="http://img.youtube.com/vi/GX--xvYOlQ0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GX--xvYOlQ0"><span font-size="16px">Chapter1- Introduction Spring Boot Framework</span></a><br/>Aug 30, 2023</td></tr></table>
-<!-- YOUTUBE:END -->
