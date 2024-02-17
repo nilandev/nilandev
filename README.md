@@ -17,6 +17,11 @@ Find my work here
 - [How to Validate the @PathVariable in Spring Boot?](https://stacktips.com/articles/how-to-validate-the-pathvariable-in-spring-boot)
 - [Java 17 Interview Questions and Answers](https://stacktips.com/articles/java-17-interview-questions-and-answers)
 - [Creating Parameterized Tests in JUnit 5](https://stacktips.com/articles/parameterized-tests-in-junit-5)
+- [Order of Test Methods in JUnit5](https://stacktips.com/articles/the-order-of-tests-in-junit5)
+- [Working with Profiles in Maven](https://stacktips.com/courses/maven-for-beginners/working-with-profiles-in-maven)
+- [Popular Maven Commands Cheat Sheet](https://stacktips.com/courses/maven-for-beginners/maven-commands-cheat-sheet)
+- [Local, Central, and Remote Repository in Maven](https://stacktips.com/courses/maven-for-beginners/local-central-remote-maven-repository)
+- [Dependency Management in Maven](https://stacktips.com/courses/maven-for-beginners/dependency-management-in-maven)
 <!-- BLOG-POST-LIST:END -->
 
 
