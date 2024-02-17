@@ -8,3 +8,6 @@ Find my work here
 - 📘 Authored [Xamarin Mobile Application Development](https://www.oreilly.com/library/view/xamarin-mobile-application/9781785280375/) for Android book
 - 👐 Open-source maintainer of [Bloggy](https://github.com/StackTipsLab/bloggy)
 - 🚢 I am mentoring developers on Java, Spring, and MicroService development. Check me out on [MentorCruise](https://mentors.to/nilan)
+
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END --> i
