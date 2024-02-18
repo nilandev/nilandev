@@ -17,7 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://stacktips.com/rss/users/nilan"
-          max_post_count: 10
+          max_post_count: 20
       # - name: Pull Youtube feed
       #   uses: gautamkrishnar/blog-post-workflow@master
       #   with:
