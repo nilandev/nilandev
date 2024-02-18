@@ -12,6 +12,7 @@ Find my work here
 ### Posts I've written recently on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Validating @ConfigurationProperties in Spring Boot](https://stacktips.com/articles/validating-configurationproperties-in-spring-boot)
 - [Task Execution and Scheduling in Spring Boot](https://stacktips.com/articles/task-execution-and-scheduling-in-spring-boot)
 - [Handling XML Request and Response in Spring Boot REST](https://stacktips.com/articles/handling-xml-request-and-response-in-spring-boot-rest)
 - [How to Validate the @PathVariable in Spring Boot?](https://stacktips.com/articles/how-to-validate-the-pathvariable-in-spring-boot)
@@ -21,5 +22,4 @@ Find my work here
 - [Working with Profiles in Maven](https://stacktips.com/courses/maven-for-beginners/working-with-profiles-in-maven)
 - [Popular Maven Commands Cheat Sheet](https://stacktips.com/courses/maven-for-beginners/maven-commands-cheat-sheet)
 - [Local, Central, and Remote Repository in Maven](https://stacktips.com/courses/maven-for-beginners/local-central-remote-maven-repository)
-- [Dependency Management in Maven](https://stacktips.com/courses/maven-for-beginners/dependency-management-in-maven)
 <!-- BLOG-POST-LIST:END -->
