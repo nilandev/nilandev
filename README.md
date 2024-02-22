@@ -12,6 +12,7 @@ I am a Software Architect from India🇮🇳, and currently live in the UK🏴�
 ### Posts I've written recently on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Working with Quartz Scheduler in Spring Boot](https://stacktips.com/articles/working-with-quartz-scheduler-in-spring-boot)
 - [Working with Spring Boot Actuators](https://stacktips.com/articles/working-with-spring-boot-actuators)
 - [Validating @ConfigurationProperties in Spring Boot](https://stacktips.com/articles/validating-configurationproperties-in-spring-boot)
 - [Task Execution and Scheduling in Spring Boot](https://stacktips.com/articles/task-execution-and-scheduling-in-spring-boot)
@@ -31,5 +32,4 @@ I am a Software Architect from India🇮🇳, and currently live in the UK🏴�
 - [7 Blogging Mistakes I Wish I Had Known Before I Started](https://stacktips.com/articles/7-blogging-mistakes-i-wish-i-had-known-before)
 - [Replace Embedded Tomcat Server with Jetty or Undertow in Spring Boot](https://stacktips.com/articles/replace-tomcat-with-jetty-or-undertow-in-spring-boot)
 - [Implementing Singleton Design Pattern in Java](https://stacktips.com/articles/singleton-design-pattern-in-java)
-- [Notes to Crack CLF-C01 AWS Certified Cloud Practitioner Exam on First Attempt](https://stacktips.com/articles/crack-clfc01-aws-certified-cloud-practitioner-on-first-attempt)
 <!-- BLOG-POST-LIST:END -->
