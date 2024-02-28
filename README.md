@@ -9,7 +9,7 @@ I am a Software Architect from India🇮🇳, and currently live in the UK🏴�
 - 👐 Open-source maintainer of [Bloggy](https://github.com/StackTipsLab/bloggy)
 - 🚢 Mentoring developers on Java, Spring, and MicroService development. Check me out on [MentorCruise](https://mentors.to/nilan)
 
-### Posts I've written recently on stacktips.com
+### My recent posts on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
 - [Dynamic Scheduling in Quartz with Spring Boot Actuators](https://stacktips.com/articles/dynamic-scheduling-in-quartz-with-spring-boot-actuators)
