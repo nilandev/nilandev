@@ -12,6 +12,7 @@ I am a Software Architect from India🇮🇳, and currently live in the UK🏴�
 ### My recent posts on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Choosing from Multiple Bean Implementations in Spring Boot](https://stacktips.com/articles/choose-from-multiple-bean-types-springboot)
 - [Dynamic Scheduling in Quartz with Spring Boot Actuators](https://stacktips.com/articles/dynamic-scheduling-in-quartz-with-spring-boot-actuators)
 - [Working with Quartz Scheduler in Spring Boot](https://stacktips.com/articles/working-with-quartz-scheduler-in-spring-boot)
 - [Working with Spring Boot Actuators](https://stacktips.com/articles/working-with-spring-boot-actuators)
@@ -31,5 +32,4 @@ I am a Software Architect from India🇮🇳, and currently live in the UK🏴�
 - [Introduction to Maven](https://stacktips.com/courses/maven-for-beginners/introduction-to-maven)
 - [Project Lombok-Is it Still Relevant in 2023?](https://stacktips.com/articles/project-lombok-is-it-still-relevant-in-2023)
 - [7 Blogging Mistakes I Wish I Had Known Before I Started](https://stacktips.com/articles/7-blogging-mistakes-i-wish-i-had-known-before)
-- [Replace Embedded Tomcat Server with Jetty or Undertow in Spring Boot](https://stacktips.com/articles/replace-tomcat-with-jetty-or-undertow-in-spring-boot)
 <!-- BLOG-POST-LIST:END -->
