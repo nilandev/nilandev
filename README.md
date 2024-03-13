@@ -1,4 +1,4 @@
-# Hi, there 👋
+# Hi there 👋
 
 My name is Nilanchala. I am a Software Architect from India🇮🇳, and currently live in the UK🏴󠁧󠁢󠁥󠁮󠁧󠁿. I have over 15 years of product development experience in Java, Spring, Spring Boot, SOA, Microservices & Cloud.
 
