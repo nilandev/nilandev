@@ -12,6 +12,9 @@ My name is Nilanchala. I am a Software Architect from India🇮🇳, and current
 ### My recent posts on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Spring Boot Project Structure](https://stacktips.com/courses/spring-boot-for-beginners/understanding-spring-boot-project-structure)
+- [Logging in Spring Boot](https://stacktips.com/courses/spring-boot-for-beginners/logging-in-spring-boot)
+- [Dependency Injection in Spring Boot](https://stacktips.com/courses/spring-boot-for-beginners/dependency-injection-in-spring-boot)
 - [Testing Spring Boot Repository Using MongoDB Testcontainers](https://stacktips.com/articles/testing-spring-boot-repository-using-mongodb-testcontainers)
 - [Choosing from Multiple Bean Implementations in Spring Boot](https://stacktips.com/articles/choose-from-multiple-bean-types-springboot)
 - [Dynamic Scheduling in Quartz with Spring Boot Actuators](https://stacktips.com/articles/dynamic-scheduling-in-quartz-with-spring-boot-actuators)
@@ -29,7 +32,4 @@ My name is Nilanchala. I am a Software Architect from India🇮🇳, and current
 - [Local, Central, and Remote Repository in Maven](https://stacktips.com/courses/maven-for-beginners/local-central-remote-maven-repository)
 - [Dependency Management in Maven](https://stacktips.com/courses/maven-for-beginners/dependency-management-in-maven)
 - [Creating Java Project using Maven Command Line](https://stacktips.com/courses/maven-for-beginners/creating-java-project-using-maven-commandline)
-- [Installing and Configuring Maven](https://stacktips.com/courses/maven-for-beginners/installing-and-configuring-maven)
-- [Introduction to Maven](https://stacktips.com/courses/maven-for-beginners/introduction-to-maven)
-- [Project Lombok-Is it Still Relevant in 2023?](https://stacktips.com/articles/project-lombok-is-it-still-relevant-in-2023)
 <!-- BLOG-POST-LIST:END -->
