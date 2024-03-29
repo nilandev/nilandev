@@ -12,6 +12,7 @@ My name is Nilanchala. I am a Software Architect from India🇮🇳, and current
 ### My recent posts on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Flyway for Database Migration in Spring Boot](https://stacktips.com/articles/using-flyway-for-database-migration-in-spring-boot)
 - [Understanding Spring Boot Project Structure](https://stacktips.com/courses/spring-boot-for-beginners/understanding-spring-boot-project-structure)
 - [Logging in Spring Boot](https://stacktips.com/courses/spring-boot-for-beginners/logging-in-spring-boot)
 - [Dependency Injection in Spring Boot](https://stacktips.com/courses/spring-boot-for-beginners/dependency-injection-in-spring-boot)
@@ -31,5 +32,4 @@ My name is Nilanchala. I am a Software Architect from India🇮🇳, and current
 - [Popular Maven Commands Cheat Sheet](https://stacktips.com/courses/maven-for-beginners/maven-commands-cheat-sheet)
 - [Local, Central, and Remote Repository in Maven](https://stacktips.com/courses/maven-for-beginners/local-central-remote-maven-repository)
 - [Dependency Management in Maven](https://stacktips.com/courses/maven-for-beginners/dependency-management-in-maven)
-- [Creating Java Project using Maven Command Line](https://stacktips.com/courses/maven-for-beginners/creating-java-project-using-maven-commandline)
 <!-- BLOG-POST-LIST:END -->
