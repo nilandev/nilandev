@@ -12,6 +12,7 @@ My name is Nilanchala. I am a Software Architect from India🇮🇳, and current
 ### My recent posts on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Importing CSV Data into PostgreSQL using Spring Boot Batch](https://stacktips.com/articles/importing-csv-data-into-postgresql-using-spring-boot-batch)
 - [Digging into HTTP Clients in Spring: From RestTemplate to HTTP Interface](https://stacktips.com/articles/rest-clients-in-spring)
 - [Using Flyway for Database Migration in Spring Boot](https://stacktips.com/articles/using-flyway-for-database-migration-in-spring-boot)
 - [Understanding Spring Boot Project Structure](https://stacktips.com/courses/spring-boot-for-beginners/understanding-spring-boot-project-structure)
@@ -31,5 +32,4 @@ My name is Nilanchala. I am a Software Architect from India🇮🇳, and current
 - [Order of Test Methods in JUnit5](https://stacktips.com/articles/the-order-of-tests-in-junit5)
 - [Working with Profiles in Maven](https://stacktips.com/courses/maven-for-beginners/working-with-profiles-in-maven)
 - [Popular Maven Commands Cheat Sheet](https://stacktips.com/courses/maven-for-beginners/maven-commands-cheat-sheet)
-- [Local, Central, and Remote Repository in Maven](https://stacktips.com/courses/maven-for-beginners/local-central-remote-maven-repository)
 <!-- BLOG-POST-LIST:END -->
