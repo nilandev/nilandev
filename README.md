@@ -12,6 +12,8 @@ My name is Nilanchala. I am a Software Architect from India🇮🇳, and current
 ### My recent posts on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [HashSet in Java](https://stacktips.com/courses/java-collections/hashset-in-java)
+- [CopyOnWriteArrayList in Java](https://stacktips.com/courses/java-collections/copyonwritearraylist-in-java)
 - [Importing CSV Data into PostgreSQL using Spring Boot Batch](https://stacktips.com/articles/importing-csv-data-into-postgresql-using-spring-boot-batch)
 - [Digging into HTTP Clients in Spring: From RestTemplate to HTTP Interface](https://stacktips.com/articles/rest-clients-in-spring)
 - [Using Flyway for Database Migration in Spring Boot](https://stacktips.com/articles/using-flyway-for-database-migration-in-spring-boot)
@@ -30,6 +32,4 @@ My name is Nilanchala. I am a Software Architect from India🇮🇳, and current
 - [Java 17 Interview Questions and Answers](https://stacktips.com/articles/java-17-interview-questions-and-answers)
 - [Creating Parameterized Tests in JUnit 5](https://stacktips.com/articles/parameterized-tests-in-junit-5)
 - [Order of Test Methods in JUnit5](https://stacktips.com/articles/the-order-of-tests-in-junit5)
-- [Working with Profiles in Maven](https://stacktips.com/courses/maven-for-beginners/working-with-profiles-in-maven)
-- [Popular Maven Commands Cheat Sheet](https://stacktips.com/courses/maven-for-beginners/maven-commands-cheat-sheet)
 <!-- BLOG-POST-LIST:END -->
