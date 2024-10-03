@@ -12,6 +12,7 @@ My name is Nilanchala. I am a Software Architect from India🇮🇳, and current
 ### My recent posts on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 17 Interview Questions and Answers](https://stacktips.com/articles/java-17-interview-questions-and-answers)
 - [Spring, Spring Boot Interview Question Answers](https://stacktips.com/articles/spring-boot-interview-questions-and-answers)
 - [Most Popular Java Interview Questions and Answers](https://stacktips.com/articles/most-popular-java-interview-questions-and-answers)
 - [Importing CSV Data into PostgreSQL using Spring Boot Batch](https://stacktips.com/articles/importing-csv-data-into-postgresql-using-spring-boot-batch)
@@ -29,7 +30,6 @@ My name is Nilanchala. I am a Software Architect from India🇮🇳, and current
 - [Task Execution and Scheduling in Spring Boot](https://stacktips.com/articles/task-execution-and-scheduling-in-spring-boot)
 - [Working XML-Based REST API with Spring Boot](https://stacktips.com/articles/handling-xml-request-and-response-in-spring-boot-rest)
 - [How to Validate the @PathVariable in Spring Boot?](https://stacktips.com/articles/how-to-validate-the-pathvariable-in-spring-boot)
-- [Java 17 Interview Questions and Answers](https://stacktips.com/articles/java-17-interview-questions-and-answers)
 - [Creating Parameterized Tests in JUnit 5](https://stacktips.com/articles/parameterized-tests-in-junit-5)
 - [Order of Test Methods in JUnit5](https://stacktips.com/articles/the-order-of-tests-in-junit5)
 <!-- BLOG-POST-LIST:END -->
