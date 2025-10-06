@@ -16,7 +16,7 @@ jobs:
       - name: Pull in stacktips.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://stacktips.com"
+          feed_list: "https://stacktips.com/rss"
           max_post_count: 20
       # - name: Pull Youtube feed
       #   uses: gautamkrishnar/blog-post-workflow@master
